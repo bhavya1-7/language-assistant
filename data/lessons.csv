@@ -1,0 +1,21 @@
+lesson_id,title,skill,level,career_tag,duration_min
+L01,Mastering Technical Verbs & Tenses,Grammar,Intermediate,Software Engineer,30
+L02,Data Analysis Terminology & Jargon,Vocabulary,Intermediate,Data Analyst,25
+L03,Executive Summary Writing,Writing,Advanced,Manager,45
+L04,Public Speaking for Thesis Defense,Speaking,Advanced,Researcher,40
+L05,Formal Civil Service Correspondence,Writing,Intermediate,Government Services,35
+L06,Basic Sentence Structure & Punctuation,Grammar,Beginner,Software Engineer,20
+L07,Active Listening in Agile Standups,Listening,Beginner,Software Engineer,25
+L08,Explaining Metrics and KPI Dashboards,Speaking,Intermediate,Data Analyst,30
+L09,Conflict Resolution Dialogue & Tone,Speaking,Advanced,Manager,35
+L10,Research Paper Abstract Formulation,Writing,Advanced,Researcher,50
+L11,Essential Vocabulary for Tech Interviews,Vocabulary,Beginner,Software Engineer,20
+L12,Comprehending Fast-Paced Audio Briefings,Listening,Advanced,Government Services,30
+L13,Persuasive Pitching & Project Demos,Speaking,Intermediate,Manager,40
+L14,Prepositions & Phrasal Verbs in Reports,Grammar,Beginner,Data Analyst,25
+L15,Literature Review Synthesis Patterns,Writing,Advanced,Researcher,45
+L16,Pronunciation: Stress Patterns in Tech,Speaking,Beginner,Software Engineer,20
+L17,Interpreting Nuanced Stakeholder Audio,Listening,Intermediate,Manager,35
+L18,Statistical Inference Vocabulary,Vocabulary,Advanced,Data Analyst,30
+L19,Formal Policy Memo Drafting,Writing,Intermediate,Government Services,40
+L20,Academic Colloquium Q&A Responses,Speaking,Advanced,Researcher,30
